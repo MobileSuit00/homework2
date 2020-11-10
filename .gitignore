@@ -1,4 +1,6 @@
 .db
 .log
+.exe
 target/
 bin/
+test/
